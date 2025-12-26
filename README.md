@@ -31,3 +31,5 @@ Spotify Music Dataset (Kaggle)
 - Sad
 - Calm
 - Energetic
+
+If you want to collaborate or modify it, please submit a request or contact me.
